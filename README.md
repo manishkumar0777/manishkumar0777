@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Cross Platform Application Developer. <br>📚 I'm proficient in React Native.<br>📱 Android + IOS Developer.<br>
+🔭 I'm a Cross Platform Application Developer. <br>📚 I'm proficient in React Native,NodeJS,RESTapi,.<br>📱 Android + IOS Developer, Building Server.<br>
 
 
 ## 🌐 Socials:
