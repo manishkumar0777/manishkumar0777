@@ -34,11 +34,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 ### My Github Stats 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=manishkumar0777&theme=default&show_icons=true&locale=en" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=manishkumar0777&theme=default&show_icons=true&locale=en" />
+</p>
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkumar0777&theme=default&show_icons=true&locale=en&layout=compact"/> 
+ </p>
+ 
+ <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar0777&theme=default" />
 </p>
 
-### Support: 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat&logo=patreon&logoColor=white)]()
