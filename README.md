@@ -1,9 +1,9 @@
-<h1 align="center"> Hi 👋, I'm  an Application Developer </h1>
-<h3 align="center">A passionate Mobile Application Developer from India.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar0777&label=Profile%20views&color=0e75b6&style=flat" alt="count badge" /> </p> 
+<h1 align="center"> Hi 👋, I'm  a Full Stack Developer </h1>
+<h3 align="center">A passionate Mobile and Web Developer from India.</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar0777&label=Profile%20views&color=0e75b6&style=flat" alt="count badge" /> </p> 
 
 
-- 🔭 I’m currently working on React-Native
-- 🌱 I’m currently learning  Backend Development
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning  REACT
 
 - 📫 How to reach me  **manishkumar970034@gmail.com** 
 
